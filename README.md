@@ -1,9 +1,3 @@
-# Generate a README for this
-
-Here is a comprehensive README for your YouTube Live Analyzer and Automatic Clip Creator project:
-
-***
-
 # YouTube Live Analyzer \& Automatic Clip Creator
 
 This project is a Flask-based backend service that analyzes completed live streams on YouTube channels, detects highlight clips based on audio spikes and transcript sentiment, and automatically extracts highlight video clips.
@@ -159,7 +153,7 @@ GET http://127.0.0.1:5000/create-smart-clips/@channelHandle
 
 Contributions and issues are welcome! Please create issues and pull requests on the GitHub repo.
 
-For support, contact [your-email@example.com].
+For support, contact [aashishs4912345@gmail.com].
 
 ***
 
